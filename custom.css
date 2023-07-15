@@ -1,0 +1,24 @@
+.about-one__img img {
+  width: 100%;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.about-one__img-border {
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  height: 600px;
+  width: 430px;
+  border: 6px solid var(--oxpins-primary);
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+.about-one {
+  padding: 120px 0 120px;
+  padding-bottom: 80px;
+}
+.causes-one {
+	padding: 120px 0 90px;
+}
+

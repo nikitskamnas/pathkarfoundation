@@ -1,0 +1,6 @@
+.about-one__img img {
+  width: 100%;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
